@@ -19,6 +19,7 @@ To achieve my goal of becoming a *CISO*, I am training in Palo Alto technologies
 - /02-Security-Automation-Scripts: Custom Python scripts for security tasks.
 - /03-Pentesting-Reports: Hands-on lab documentation in English.
 - /04-Network-Security-PaloAlto: Notes and configurations of enterprise security environments.
+- /05-Networking: Visual diagrams and documentation of network topologies, traffic flow, and protocols.
 
 ---
 📫 *Connect with me on LinkedIn:* https://www.linkedin.com/in/marinely-hern%C3%A1ndez-mart%C3%ADnez-9aa367367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
